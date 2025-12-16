@@ -8,7 +8,7 @@ function Sidebar(){
          </pre>
         </div>
         <div className="sidebar1">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, qui consectetur. Aliquid non odit aliquam suscipit earum quisquam corrupti libero sequi consectetur, repudiandae praesentium laborum incidunt. Unde doloribus deserunt expedita!</p>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, qui consectetur. Aliquid non odit aliquam suscipit earum quisquam corrupti libero sequi consectetur, repudiandae praesentium laborum incidunt. Unde doloribus deserunt expedita !</p>
         </div>
         <div className="right">
             <img src="react.svg" alt="Error" />
